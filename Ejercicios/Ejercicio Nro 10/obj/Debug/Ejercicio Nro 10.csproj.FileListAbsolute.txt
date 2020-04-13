@@ -1,0 +1,6 @@
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 10\bin\Debug\Ejercicio Nro 10.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 10\bin\Debug\Ejercicio Nro 10.exe
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 10\bin\Debug\Ejercicio Nro 10.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 10\obj\Debug\Ejercicio Nro 10.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 10\obj\Debug\Ejercicio Nro 10.exe
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 10\obj\Debug\Ejercicio Nro 10.pdb

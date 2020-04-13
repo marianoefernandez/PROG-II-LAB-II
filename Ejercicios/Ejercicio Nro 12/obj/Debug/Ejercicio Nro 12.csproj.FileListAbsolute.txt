@@ -1,0 +1,7 @@
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\bin\Debug\Ejercicio Nro 12.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\bin\Debug\Ejercicio Nro 12.exe
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\bin\Debug\Ejercicio Nro 12.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\obj\Debug\Ejercicio Nro 12.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\obj\Debug\Ejercicio Nro 12.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\obj\Debug\Ejercicio Nro 12.exe
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 12\obj\Debug\Ejercicio Nro 12.pdb

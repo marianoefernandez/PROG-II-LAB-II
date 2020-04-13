@@ -1,0 +1,14 @@
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.exe
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.pdb
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.exe
+C:\Users\mezeq\OneDrive\Escritorio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.exe.config
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.exe
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\bin\Debug\Ejercicio Nro 01.pdb
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.csprojAssemblyReference.cache
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.csproj.CoreCompileInputs.cache
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.exe
+C:\Users\mezeq\OneDrive\Escritorio\Estudio\PROG II - LAB II\Ejercicio Nro 01\Ejercicio Nro 01\obj\Debug\Ejercicio Nro 01.pdb
